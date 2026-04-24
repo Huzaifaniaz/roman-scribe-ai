@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+faster-whisper
+transformers
+torch
+pywebview
+python-multipart
+pdfplumber
+pydantic
+playwright
+fpdf2
+python-dotenv
